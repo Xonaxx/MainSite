@@ -5,10 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tables</title>
 </head>
+<style>
+    .table {
+    border-collapse: collapse;
+    }
+</style>
 <body>
     <h2 align="center">№1</h2>
     <H1 ALIGN=CENTER> Coздание таблиц </Н1>
-    <TABLE BORDER=1>
+    <TABLE BORDER=1 class="table">
     <TR>
     <TH> Наименование </TH>
     <TH> Описание </TH>
@@ -32,7 +37,7 @@
     </TABLE>
     <h2 align="center">№2</h2>
         <H1 ALIGN=CENTER> Объединение ячеек </Н1>
-        <TABLE BORDER=1>
+        <TABLE BORDER=1 class="table">
         <TR BGCOLOR=RED>
         <TH> Наименование </TH>
         <TH> Описание </TH>
@@ -49,7 +54,7 @@
             </TR>
             </TABLE>
             <h2 align="center">№3</h2>
-                <TABLE border="1">
+                <TABLE border="1" class="table">
                     <TR>
                         <TD> Фамилия </TD>
                         <TD> Адрес </TD>
@@ -66,6 +71,29 @@
                         <TD> 1234532 </TD>
                     </TR>
             </TABLE>
-        
+            <h2 align="center">№4</h2>
+            <h4 align="center"><font color="blue">Данные по расходу электроэнергии</font></h2>
+            <table border="1" align="center" class="table">
+                <tr>
+                    <th>Месяц</th>
+                    <th>Показания счетчика, <br>кВт</th>
+                    <th>Оплата за месяц, <br>руб.</th>
+                </tr>
+                <tr>
+                    <td>Март</td>
+                    <td>1900</td>
+                    <td>20500</td>
+                </tr>
+                <tr>
+                    <td>Апрель</td>
+                    <td>2476</td>
+                    <td>15800</td>
+                </tr>
+                <tr>
+                    <td>Май</td>
+                    <td>3263</td>
+                    <td>30100</td>
+                </tr>
+            </table>
 </body>
 </html>
