@@ -49,3 +49,21 @@ PADDING-LEFT: 18PX;
     line-height: 1;
     float: left;
 }
+
+.№7 {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+}
+
+.№7text {
+    font-size: 14px;
+    font-family: 'Monotype Corsiva', cursive;
+}
+
+.№7img {
+    width: 400px;
+    height: 200px;
+    border: 10px solid blue;
+}
