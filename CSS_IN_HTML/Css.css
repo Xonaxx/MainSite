@@ -67,3 +67,22 @@ PADDING-LEFT: 18PX;
     height: 200px;
     border: 10px solid blue;
 }
+
+.table№8 {
+    border: 10px solid blue;
+    border-collapse: collapse; 
+    width: 100%; 
+}
+
+.th8 {
+    background-color: yellow; 
+    color: red; 
+    border: 3px red dashed; 
+    padding: 10px; 
+}
+
+.td8 {
+    background-color: green; 
+    border: 2px solid yellow; 
+    padding: 10px; 
+}
