@@ -86,3 +86,39 @@ PADDING-LEFT: 18PX;
     border: 2px solid yellow; 
     padding: 10px; 
 }
+
+.№9 {
+    width: 600px;
+    height: 470px;
+    background-color: #66f5ff;
+    margin-left: 34%;
+}
+
+.№9photo {
+    width: 120px;
+    height: 120px;
+    margin-left: 41%;
+}
+
+.№9table2 {
+    border: 4px solid rgb(255, 0, 51);
+    background-color: #c7941d;
+}
+
+.th29 {
+    border: 2px dashed rgb(255, 0, 51);
+    background-color: #d17c3b;
+    color: blue;
+}
+
+.№9table {
+    border: 4px solid rgb(255, 0, 51);
+    display: inline-block;
+    padding: 3px; 
+    margin-left: 30%;
+}
+
+.td29 {
+    background-color: #ffb300;
+    border: 4px solid crimson;
+}
