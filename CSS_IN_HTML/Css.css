@@ -30,3 +30,22 @@ PADDING-LEFT: 18PX;
     margin: 0;
     color: rgb(201, 12, 201)
 }
+
+.№6 {
+    width: 620px;
+    height: 400px;
+    background-color: #e7d800;
+    margin-left: 34%;
+}
+
+.№6text {
+    font-size: 18px;
+}
+
+.№6text::first-letter {
+    margin: 0;
+    color: rgb(211, 144, 0);
+    font-size: 50px;
+    line-height: 1;
+    float: left;
+}
