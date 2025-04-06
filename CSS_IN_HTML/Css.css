@@ -10,3 +10,23 @@ PADDING-LEFT: 18PX;
 
 .zagolovok 
 {color: RED; TEXT-ALIGN: RIGHT;}
+
+.CSS {
+    background-color: rgb(152, 10, 218);
+    width: 540px;
+    height: 120px;
+    margin-left: 36%;
+}
+.CSS_TEXT {
+    align-items: center;
+    color: rgb(201, 12, 201);
+    text-shadow: 5px 1px 1px rgb(0, 0, 0);
+    font-size: 47px;
+    margin: 0;
+}
+
+.CSS_TEXT_OP {
+    font-size: 30px;
+    margin: 0;
+    color: rgb(201, 12, 201)
+}
